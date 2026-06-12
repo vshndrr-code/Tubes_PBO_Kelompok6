@@ -1,0 +1,166 @@
+NoRek: 1234567890
+Nama: quisoa
+Transaksi: SETOR TUNAI
+Nominal: Rp 50000
+Detail: -
+-----------------------------------------
+NoRek: 1234567890
+Nama: quisoa
+Transaksi: SETOR TUNAI
+Nominal: Rp 100000
+Detail: -
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: SETOR TUNAI
+Nominal: Rp 10000000
+Detail: -
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TARIK TUNAI
+Nominal: Rp 50000
+Detail: -
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 100000
+Detail: Ke Bank MANDIRI (2514344945)
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: SETOR TUNAI
+Nominal: Rp 5000000
+Detail: -
+-----------------------------------------
+NoRek: 9876543210
+Nama: yaz
+Transaksi: TRANSFER MASUK
+Nominal: Rp 100000
+Detail: Dari No.Rek: 8614958411
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 100000
+Detail: Ke Bank LOOPY (9876543210)
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 100000
+Detail: Ke Bank MANDIRI (124546846)
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 50000
+Detail: Ke Bank DANAMON (21548468895) | Admin Rp 2.500
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 100000
+Detail: Ke Bank BCA (14257955464) | Admin Rp 2.500
+-----------------------------------------
+NoRek: 9876543210
+Nama: yaz
+Transaksi: TRANSFER MASUK
+Nominal: Rp 500000
+Detail: Dari No.Rek: 8614958411
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 500000
+Detail: Ke Bank LOOPY (9876543210) a.n. yaz
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 1.000.000
+Adm Bank: Rp 2.500
+Total: Rp 1.002.500
+Detail: Ke Bank BNI (5487423688) | Admin Rp 2.500
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: SETOR TUNAI
+Nominal: Rp 100.000
+Adm Bank: Rp 0
+Total: Rp 100.000
+Detail: -
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TARIK TUNAI
+Nominal: Rp 5.000.000
+Adm Bank: Rp 0
+Total: Rp 5.000.000
+Detail: -
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: SETOR TUNAI
+Nominal: Rp 100.000.000
+Adm Bank: Rp 0
+Total: Rp 100.000.000
+Detail: -
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: TARIK TUNAI
+Nominal: Rp 5.000.000
+Adm Bank: Rp 0
+Total: Rp 5.000.000
+Detail: -
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: TARIK TUNAI
+Nominal: Rp 550.000
+Adm Bank: Rp 0
+Total: Rp 550.000
+Detail: -
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER MASUK
+Nominal: Rp 10.000.000
+Adm Bank: Rp 0
+Total: Rp 10.000.000
+Detail: Dari No.Rek: 4192293443
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 10.000.000
+Adm Bank: Rp 0
+Total: Rp 10.000.000
+Detail: Ke Bank LOOPY (8614958411) a.n. yazri khoiri
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 100.000
+Adm Bank: Rp 2.500
+Total: Rp 102.500
+Detail: Ke Bank CIMB NIAGA (54864626)
+-----------------------------------------
+NoRek: 4192293443
+Nama: budiono
+Transaksi: TRANSFER MASUK
+Nominal: Rp 1.000.000
+Adm Bank: Rp 0
+Total: Rp 1.000.000
+Detail: Dari No.Rek: 8614958411
+-----------------------------------------
+NoRek: 8614958411
+Nama: yazri khoiri
+Transaksi: TRANSFER KELUAR
+Nominal: Rp 1.000.000
+Adm Bank: Rp 0
+Total: Rp 1.000.000
+Detail: Ke Bank LOOPY (4192293443) a.n. budiono
+-----------------------------------------
